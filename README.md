@@ -30,7 +30,7 @@
         </div>
         <div id="sadGifContainer1" style="display: none;">
             <img src="mocha3.gif" alt="Osito Triste" style="width: 80%; height: 80%;">
-        </div>
+        </div> 
         <div id="sadGifContainer2" style="display: none;">
             <img src="mocha4.gif" alt="Osito Triste" style="width: 80%; height: 80%;">
         </div>
